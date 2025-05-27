@@ -44,7 +44,7 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/gusta
 <p align="center">
   <img src="images/total_fires.png"/>
   <br>
-  <em>Figure 1: Yearly trend of forest fires in Brazil</em>
+  <em>Figure 1: Total fires in each state (1998 - 2017)</em>
 </p>
 <!-- ![Brazil Fire Map](/images/total_fires.png) -->
 
