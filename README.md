@@ -41,6 +41,11 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/gusta
 - Preliminary observations on potential factors influencing fire occurrences
 
 # 📷 Visualizations
-
+<p align="center">
+  <img src="images/fire_trend_plot.png" width="500"/>
+  <br>
+  <em>Figure 1: Yearly trend of forest fires in Brazil</em>
+</p>
+![Brazil Fire Map](/images/total_fires.png)
 
 
