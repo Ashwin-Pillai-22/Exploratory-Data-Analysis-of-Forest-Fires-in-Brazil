@@ -43,19 +43,19 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/gusta
 # 📷 Visualizations
 <p align="center">
   <em>Figure 1: 🔥 Total Forest Fire Incidents by Brazilian State (1998–2017)</em>
-  <br>
+  <br><br>
   <img src="images/total_fires.png"/>
 </p>
 
 <p align="center">
   <em>Figure 2:🔥 Monthly Trend of Forest Fires in Acre (1998–2017)</em>
-  <br>
+  <br><br>
   <img src="images/ACRE_fires.png"/>
 </p>
 
 <p align="center">
   <em>Figure 3:🔥 Monthly Trend of Forest Fires in Bahia (1998–2017)</em>
-  <br>
+  <br><br>
   <img src="images/BAHIA_fires.png"/>
 </p>
 
