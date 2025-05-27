@@ -50,7 +50,7 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/gusta
 <p align="center">
   <img src="images/ACRE_fires.png"/>
   <br>
-  <em>Figure 1: Total fires in Acre (1998 - 2017)</em>
+  <em>Figure 1: Total fires in Acre monthly (1998 - 2017)</em>
 </p>
 
 
