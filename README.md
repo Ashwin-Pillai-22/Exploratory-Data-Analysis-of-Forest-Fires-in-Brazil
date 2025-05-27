@@ -40,4 +40,7 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/gusta
 
 - Preliminary observations on potential factors influencing fire occurrences
 
+# 📷 Visualizations
+
+
 
