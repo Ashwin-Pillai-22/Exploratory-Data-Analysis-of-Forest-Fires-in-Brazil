@@ -4,16 +4,18 @@ This project presents an Exploratory Data Analysis (EDA) of forest fire incident
 # 📊 Overview
 The analysis focuses on understanding:
 
-Trends in forest fire occurrences over time
+- Trends in forest fire occurrences over time
 
-Regional distribution of fires across Brazilian states
+- Regional distribution of fires across Brazilian states
 
-Seasonal patterns and peak fire periods
+- Seasonal patterns and peak fire periods
 
-Potential correlations with environmental factors (if additional data is incorporated)
+- Potential correlations with environmental factors (if additional data is incorporated)
 
 # 📁 Dataset
 The dataset used is the Forest Fires in Brazil dataset available on Kaggle. It comprises records of forest fires in Brazil, categorized by state and year, spanning from 1998 to 2017. Each record includes the number of fires reported in a particular state for a given year.
+
+You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil)
 
 
 # 🛠️ Tools & Technologies
