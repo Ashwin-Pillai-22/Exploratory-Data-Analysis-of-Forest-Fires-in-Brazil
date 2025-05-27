@@ -31,4 +31,13 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/gusta
 
 - Jupyter Notebook
 
+# 📌 Key Insights
+- Identification of years with unusually high fire activity
+
+- States most affected by forest fires over the two decades
+
+- Seasonal trends indicating peak fire months
+
+- Preliminary observations on potential factors influencing fire occurrences
+
 
