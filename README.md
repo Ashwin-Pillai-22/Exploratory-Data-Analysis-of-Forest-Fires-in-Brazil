@@ -46,6 +46,11 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/gusta
   <br>
   <em>Figure 1: Total fires in each state (1998 - 2017)</em>
 </p>
-<!-- ![Brazil Fire Map](/images/total_fires.png) -->
+
+<p align="center">
+  <img src="images/ACRE_fires.png"/>
+  <br>
+  <em>Figure 1: Total fires in Acre (1998 - 2017)</em>
+</p>
 
 
